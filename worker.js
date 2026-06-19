@@ -1,4 +1,4 @@
-const API_URL = "https://你的worker.workers.dev";
+const API_URL = "https://cissp-coach-holiday.holidaytang-q.workers.dev/";
 
 async function send() {
   const prompt = document.getElementById("input").value;
